@@ -1,5 +1,4 @@
 # Machine-Learning-for-Beginners-Updated-2-Submission
-# Machine Learning for Beginners (update) - Submission
 
 In submission section, the student must build a machine learning model for image classification and meet the submission criteria.
 
